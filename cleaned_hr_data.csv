@@ -1,0 +1,6 @@
+EmployeeID,Name,Age,Gender,Department,Salary,HireDate,Attrition,TenureYears
+1,Alice,29,F,Sales,55000,2018-06-01,No,6
+2,Bob,35,M,Engineering,75000,2016-04-15,Yes,9
+3,Carol,42,F,HR,68000,2014-09-10,No,10
+4,David,31,M,Engineering,72000,2020-01-05,No,5
+5,Eve,45,F,Sales,59000,2012-11-23,Yes,12
